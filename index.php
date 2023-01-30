@@ -1,5 +1,5 @@
 <?php
 
-require_once 'engine/bootstgrap.php';
+require_once 'engine/bootstrap.php';
 
 ?>
